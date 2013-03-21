@@ -1,1 +1,2 @@
-s
+(no author) = developerslq13 <developerslq13@gmail.com>
+YOUR_EMAIL_ON_GOOGLE_CODE = developerslq13 <developerslq13@gmail.com>
